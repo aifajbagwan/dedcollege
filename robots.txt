@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.dedcollege.edu.in/sitemap.xml
+
+# Disallow access to backend or private directories if any are added later
+# Disallow: /admin/
+# Disallow: /private/
