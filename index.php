@@ -95,25 +95,15 @@ include $ROOT . 'includes/header.php';
             </div>
           </div>
 
-          <!-- Principal & HOD Portraits -->
-          <div class="portraits-grid">
-            <div class="portrait-card">
+          <!-- Principal Portrait -->
+          <div class="portraits-grid" style="display:flex;justify-content:center;">
+            <div class="portrait-card" style="max-width:350px;">
               <img src="assets/images/principal.jpg"
                    alt="Principal of D.El.Ed College"
                    onerror="this.style.background='linear-gradient(135deg,#1a2e4a,#2a4a74)';this.style.height='240px';this.removeAttribute('src')">
               <div class="portrait-info">
-                <h4>[Principal Name]</h4>
-                <span class="title">Principal</span>
-                <p class="quote">"Education is the most powerful weapon to change the world."</p>
-              </div>
-            </div>
-            <div class="portrait-card">
-              <img src="assets/images/hod.jpg"
-                   alt="Head of Department"
-                   onerror="this.style.background='linear-gradient(135deg,#1a2e4a,#2a4a74)';this.style.height='240px';this.removeAttribute('src')">
-              <div class="portrait-info">
                 <h4>Mrs. Rizwana Daulatabad</h4>
-                <span class="title">Head of Department</span>
+                <span class="title">Principal</span>
                 <p class="quote">"Education is the most important tool offers inner and outer strength to a person."</p>
               </div>
             </div>

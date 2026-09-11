@@ -29,7 +29,7 @@ include $ROOT . 'includes/header.php';
                  alt="Principal of D.El.Ed College"
                  onerror="this.style.background='linear-gradient(135deg,#1a2e4a,#2a4a74)';this.style.minHeight='320px';this.removeAttribute('src')">
             <div class="principal-name-card">
-              <h4>[Principal Name]</h4>
+              <h4>Mrs. Rizwana Daulatabad</h4>
               <span class="role">Principal</span>
             </div>
           </div>
@@ -47,7 +47,7 @@ include $ROOT . 'includes/header.php';
               <p>Let us join hands to help our students take pride in how far they have come and to develop faith in how far they can go. I conclude by wishing you all a wonderful academic year.</p>
               <div class="signature">
                 <p>With warm regards,</p>
-                <p><strong>[Principal Name]</strong><br>
+                <p><strong>Mrs. Rizwana Daulatabad</strong><br>
                 <em>Principal, M.C.E. Society's Junior College of Education</em></p>
               </div>
             </div>
